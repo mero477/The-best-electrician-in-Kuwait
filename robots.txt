@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://thebestelectricianinkuwait.vercel.app/sitemap.xml
